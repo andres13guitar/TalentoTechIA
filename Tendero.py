@@ -13,6 +13,6 @@ print("Los productos cuestan $" , totalPrice)
 userCash = int(input("Ingrese la cantidad con que va a pagar: "))
 returned = int(userCash - totalPrice)
 
-print("Se le devuelve al usuario $", returned)
+print("Se le devuelve al usuario $", returned)  # comentario tendero
 
 
