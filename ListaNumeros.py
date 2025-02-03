@@ -9,6 +9,6 @@ totalSuma = sum(listaNumeros)
 print("La suma total es: ", totalSuma)
 print("El promedio es: ", df[0].mean())
 print("El valor máximo es: ", df[0].min())
-print("El valor mínimo es: ", df[0].max())
+print("El valor mínimo es: ", df[0].max()) # comentario numeros
 
 
