@@ -1,4 +1,4 @@
-edad = int(input("Ingresa la edad "))
+edad = int(input("Ingresa la edad por favor"))
 rango = 0
 listaAdultos = []
 
