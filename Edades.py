@@ -1,6 +1,6 @@
 edad = int(input("Ingresa la edad por favor"))
 rango = 0
-listaAdultos = []
+listaAdultos = [] #List
 
 if(edad > 0 and edad <= 5): rango = 0
 if(edad > 6 and edad <= 12): rango = 1
